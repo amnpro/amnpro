@@ -20,6 +20,7 @@
 
 ## 🛠️ 𝙼𝚢 𝙰𝚛𝚜𝚎𝚗𝚊𝚕 🛠️
 
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -28,11 +29,11 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=Nmap)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=Kali-Linux)
 
-**<h3 align="left">GitHub Stats</h3>**
+## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 📊
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amnpro&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=amnpro&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amnpro&theme=react&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 <p align="left">
