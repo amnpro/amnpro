@@ -4,9 +4,9 @@
 ```bash
 > whoami
 ```
-🚀 **Bug Bounty Hunter | CTF Player | Ethical Hacker**  
+🚀 **Bug Bounty Hunter | CTF Player | Android Hacker | Ethical Hacker**  
 🔍 Active on **HackerOne, Bugcrowd**  
-🎯 Training on **TryHackMe, HackTheBox**  
+🎯 Training on **TryHackMe, HackTheBox, Portswigger**  
 📜 OSINT | Web Security | Exploitation | Reconnaissance  
 
 ```bash
@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000?&logo=Burp-Suite)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=Metasploit)
 ![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=Nmap)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=Kali-Linux)
