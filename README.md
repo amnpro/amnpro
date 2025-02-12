@@ -22,8 +22,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000?&logo=Burp-Suite)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000?&logo=Burp-Suite)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=Metasploit)
 ![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=Nmap)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=Kali-Linux)
