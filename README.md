@@ -47,10 +47,22 @@
 
 ## 🚀 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 🚀
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-chadokar-862555220)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackeraman).
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%2300FF00.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/404024).
+
+<a href="https://twitter.com/yourhandle" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href="https://linkedin.com/in/aman-chadokar-862555220" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://tryhackme.com/p/hackeraman" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-%23red.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
+
+<a href="https://app.hackthebox.com/profile/404024" target="_blank">
+  <img src="https://img.shields.io/badge/HackTheBox-%2300FF00.svg?&style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+</a>
 
 ---
 
