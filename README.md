@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://github.com/amnpro/amnpro/blob/main/hacker-anime.gif" width="1200" height="200" />
+</p>
 
+![Profile views](https://komarev.com/ghpvc/?username=amnpro&label=Profile%20views&color=0e75b6&style=flat)
 ## 👾 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚊 𝙱𝚞𝚐 𝙱𝚘𝚞𝚗𝚝𝚢 𝙷𝚞𝚗𝚝𝚎𝚛 & 𝙲𝚈𝙱𝙴𝚁 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙴𝚇𝙿𝙻𝙾𝚁𝙴𝚁 👾
 
 ```bash
