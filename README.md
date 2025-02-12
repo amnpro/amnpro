@@ -48,9 +48,9 @@
 ## 🚀 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 🚀
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourhandle)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%2300FF00.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/u/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-chadokar-862555220)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackeraman).
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%2300FF00.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/404024).
 
 ---
 
